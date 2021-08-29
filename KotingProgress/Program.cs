@@ -6,7 +6,11 @@ namespace KotingProgress
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!!");
+            //ForGames.PlayFor();
+            //ForGames.SimpleFor();
+            
+            GoTo.SwitchGoto();
+            GoTo.Use_GoTo();
         }
     }
 }
